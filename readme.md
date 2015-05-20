@@ -1,4 +1,4 @@
-- title
-- teaser
-- length
-- speaker
+- I have no idea what I am doing
+- Design on the world wide web
+- 10 minutes
+- Beta Ngadiman
